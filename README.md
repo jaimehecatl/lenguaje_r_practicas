@@ -1,2 +1,2 @@
 # lenguaje_r_practicas
-Practicas escolares de Lenguaje R
+Prácticas escolares de Lenguaje R
